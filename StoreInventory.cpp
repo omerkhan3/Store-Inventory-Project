@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-	vector <Items> store; // vectore of the objects of type Items.
+	vector <Items> store; // vector of the objects of type Items.
 	Items item; // create an object of items.
 	ifstream file; 
 	file.open("StoreData.txt");// opens the text file.
